@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\filip\\OneDrive\\Pulpit\\Solidity\\MultiSigContracts\\contracts\\multiSig_light.sol": {
+      "lastModificationDate": 1656867395480,
+      "contentHash": "7d84f3074a2d813affb479297051e67a",
+      "sourceName": "contracts/multiSig_light.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "MultiSigWallet_standard"
+      ]
+    },
+    "C:\\Users\\filip\\OneDrive\\Pulpit\\Solidity\\MultiSigContracts\\contracts\\multiSig_extend.sol": {
+      "lastModificationDate": 1657047237709,
+      "contentHash": "a4f71acf8322b817d0ab8ce4af88cc66",
+      "sourceName": "contracts/multiSig_extend.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "multiSigWallet_extend_v1"
+      ]
+    }
+  }
+}
